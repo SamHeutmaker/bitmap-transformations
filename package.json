@@ -1,0 +1,24 @@
+{
+  "name": "bitmap-transformations",
+  "version": "1.0.0",
+  "description": "A collection of color transformation functions for bitmaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitmap",
+    "transformation",
+    "color",
+    "image",
+    "manipulation"
+  ],
+  "author": {
+    "name": "samheutmaker@gmail.com"
+  },
+  "license": "MIT",
+  "readme": "ERROR: No README data found!",
+  "_id": "bitmap-transformations@1.0.0",
+  "_shasum": "6ddc09146648819ebd5a66c52df1041e92689ac1",
+  "_from": "bitmap-transformations@>=1.0.0 <2.0.0"
+}
