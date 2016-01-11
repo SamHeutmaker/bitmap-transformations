@@ -1,6 +1,6 @@
 {
   "name": "bitmap-transformations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of color transformation functions for bitmaps",
   "main": "index.js",
   "scripts": {
