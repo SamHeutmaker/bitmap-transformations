@@ -13,12 +13,16 @@
     "image",
     "manipulation"
   ],
-  "author": {
-    "name": "samheutmaker@gmail.com"
-  },
+  "author": "samheutmaker@gmail.com",
   "license": "MIT",
-  "readme": "ERROR: No README data found!",
-  "_id": "bitmap-transformations@1.0.0",
   "_shasum": "6ddc09146648819ebd5a66c52df1041e92689ac1",
-  "_from": "bitmap-transformations@>=1.0.0 <2.0.0"
+  "_from": "bitmap-transformations@>=1.0.0 <2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHeutmaker/bitmap-transformations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SamHeutmaker/bitmap-transformations/issues"
+  },
+  "homepage": "https://github.com/SamHeutmaker/bitmap-transformations#readme"
 }
